@@ -3,10 +3,15 @@ This project uses Plotly.js, a JavaScript data visualization library, to create 
 \
 \
 The project:
+\
 -Uses D3.json() to fetch external data, such as CSV files and web APIs.
+\
 -Parses data in JSON format.
+\
 -Programs JavaScript to manipulate data.
+\
 -Employs JavaScript's Math library to manipulate numbers.
+\
 -Engages event handlers in JavaScript to add interactivity among data visualizations.
 \
 \
