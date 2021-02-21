@@ -9,4 +9,5 @@ The project:
 -Engages event handlers in JavaScript to add interactivity among data visualizations.
 \
 The end product appears:
-\
+/
+!["BellyButtonDiversityDashboard.PNG"](https://github.com/dagibbins186/Belly-Button-Diversity/blob/main/Belly%20Button%20Biodiversity/BellyButtonDiversityDashboard.PNG)
